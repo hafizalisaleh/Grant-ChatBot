@@ -10,3 +10,4 @@ GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 
 # OpenAI‑compatible endpoint for chat completions
 GROQ_CHAT_URL = "https://api.groq.com/openai/v1/chat/completions"  # :contentReference[oaicite:1]{index=1}
+
